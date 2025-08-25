@@ -1,4 +1,5 @@
-# word-game-api
+# Word Jumble: Real-time Word Puzzle Game
+A fun and challenging real-time multiplayer word puzzle game. Challenge your friends or play solo to find as many words as you can from a jumbled set of letters before the timer runs out!
 
 ## Features
 * Offline Mode: Play a solo game anytime without needing an internet connection or an account.
